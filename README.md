@@ -1,4 +1,4 @@
-# vector
+# artemis
 
 A [Go](http://golang.org) library with utilities for slices and arrays.
 
